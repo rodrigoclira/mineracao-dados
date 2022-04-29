@@ -4,5 +4,5 @@ Repositório da Disciplina de Mineração de Dados do Curso de Análise e Desenv
 
 ## Material Complementar
 
-[ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
-[Datascience using Python](https://github.com/ammarmohsin/Data-Science-using-Python)
+- [ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [Datascience using Python](https://github.com/ammarmohsin/Data-Science-using-Python)
